@@ -1,1 +1,3 @@
-"C:\Users\Tahsin Habib\OneDrive\Pictures\Screenshots\Screenshot 2026-09-11 204712.png"
+## Screenshot
+
+![Project Screenshot](./Screenshot%202026-09-11%20204712.png)
